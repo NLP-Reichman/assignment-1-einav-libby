@@ -3,33 +3,25 @@
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 748,
-    "english_3_gram_length": 8239,
-    "french_3_gram_length": 8286,
-    "spanish_3_gram_length": 8469
+    "english_2_gram_length": 747,
+    "english_3_gram_length": 8238,
+    "french_3_gram_length": 8285,
+    "spanish_3_gram_length": 8468
   },
   "test_eval": {
-    "en_on_en": 20.63,
-    "en_on_fr": 42.73,
-    "en_on_tl": 54.94,
-    "en_on_nl": 48.14
+    "en_on_en": 25.0,
+    "en_on_fr": 71.69,
+    "en_on_tl": 69.43,
+    "en_on_nl": 57.67
   },
-  "test_match": {
-    "df_shape": [
-      256,
-      4
-    ],
-    "en_en_3": 20.62769597572053,
-    "en_tl_3": 54.94194077498215,
-    "en_nl_3": 48.14397430357679
-  },
+  "test_match": "KeyError('source')",
   "test_generate": {
-    "english_2_gram": "I amoulpeginShmee bie ae",
-    "english_3_gram": "I amit: Lynmkm ways.",
-    "english_4_gram": "I Love gifts @OndMade a no",
-    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
-    "spanish_3_gram": "Soy orbe",
-    "french_2_gram": "Je suis:/opapropades tprisl",
-    "french_3_gram": "Je suis tune"
+    "english_2_gram": "I amon innarig s: @Salli",
+    "english_3_gram": "I am?  #RIHFIR_le. Tappi",
+    "english_4_gram": "I Love goin a ford. Weapon",
+    "spanish_2_gram": "Soy vibufacicis: @SPllf",
+    "spanish_3_gram": "Soy guirmarid: Vegualen",
+    "french_2_gram": "Je suis vjm:/yNic htpleatp:",
+    "french_3_gram": "Je suis viEmma foisArrratte"
   }
 }
